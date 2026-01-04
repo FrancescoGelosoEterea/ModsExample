@@ -6,7 +6,7 @@ This guide explains how to create, host, and update a custom modpack for the Ete
 
 ## 1. Local Files Preparation
 1. Create a folder on your PC (e.g., `MyModpack`).
-2. Inside it, create a subfolder named `mods`.
+2. Inside it, create a subfolder named `mods`(Optional).
 3. Place all the `.jar` mod files you want to use inside the `mods` folder.
 4. (Optional) Test the mods with the standard Minecraft launcher to ensure there are no crashes or incompatibilities.
 
