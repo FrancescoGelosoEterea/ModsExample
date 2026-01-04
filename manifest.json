@@ -1,20 +1,20 @@
 {
-  "config": {
-    "version": "1.20.1",
-    "forgeVersion": "1.20.1-47.4.0"
-  },
-  "files": [
-    {
-      "name": "appliedenergistics2-forge-15.4.8.jar",
-      "size": 8423946,
-      "hash": "afe5d93caa77f5acb0806a4c8908f0c39d99ea7f",
-      "url": "https://github.com/FrancescoGelosoEterea/ModsExample/appliedenergistics2-forge-15.4.8.jar"
+    "config": {
+        "version": "1.20.1",
+        "forgeVersion": "1.20.1-47.4.0"
     },
-    {
-      "name": "guideme-20.1.14.jar",
-      "size": 9413204,
-      "hash": "57d883148f04989128505a1bd8919629440f714f",
-      "url": "https://github.com/FrancescoGelosoEterea/ModsExample/guideme-20.1.14.jar"
-    }
-  ]
+    "files": [
+        {
+            "name": "appliedenergistics2-forge-15.4.8.jar",
+            "size": 8423946,
+            "hash": "afe5d93caa77f5acb0806a4c8908f0c39d99ea7f",
+            "url": "https://raw.githubusercontent.com/FrancescoGelosoEterea/ModsExample/refs/heads/main/appliedenergistics2-forge-15.4.8.jar"
+        },
+        {
+            "name": "guideme-20.1.14.jar",
+            "size": 9413204,
+            "hash": "57d883148f04989128505a1bd8919629440f714f",
+            "url": "https://raw.githubusercontent.com/FrancescoGelosoEterea/ModsExample/refs/heads/main/guideme-20.1.14.jar"
+        },
+    ]
 }
